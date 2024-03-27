@@ -1,0 +1,32 @@
+.sc-JrDLc.lhYbII.pro-sidebar {
+    background-color: rgb(251, 251, 251, 1);
+}
+.sc-Nxspf.gmeTLe {
+    text-align: justify;
+}
+
+.title{
+    color: black;
+}
+
+.dashboard{
+    color: black;
+}
+.sidebar {
+    text-align: justify;
+}
+
+.heading{
+    text-align: center;
+    color: black;
+}
+
+.analysis {
+    border-bottom: 2px solid rgba(173, 173, 173, 0.2);
+    margin-bottom: 10px;
+}
+
+.sidebar_footer{
+    padding: 20px 5px;
+    color: black;
+}

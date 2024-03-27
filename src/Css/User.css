@@ -1,0 +1,56 @@
+.maindiv{
+    background-color: lightgrey;
+}
+
+.cards_first{
+    gap: 14px;
+}
+
+.all-cards{
+    padding: 30px;
+}
+
+.customer_card{
+    border-radius: 16px;
+    display: flex;
+    flex-direction: row;
+    height: 110px;
+}
+
+.customer-Locations{
+    border-radius: 16px;
+}
+
+h2 {
+    color: lightgray;
+}
+
+p.number {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+p.percentage {
+    color: lightgreen;
+    font-size: 12px;
+}
+p.days {
+    font-size: 16px;
+    color: lightgray;
+}
+h3.customer_location {
+    font-weight: 600;
+}
+
+img.graph {
+    width: 100px;
+    height: 87px;
+    margin-top: 8px;
+    padding-left: 8px;
+    max-width: 100%;
+}
+
+.custumer_growth{
+    font-size: 18px;
+    font-weight: 600;
+}
